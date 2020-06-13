@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "age": 32,
+      "name": "Vivek",
+      "city": "Pune",
+      "developer": true
+    },
+    {
+      "age": 33,
+      "name": "Aarti",
+      "city": "Pune",
+      "developer": false
+    },
+    {
+      "age": 29,
+      "name": "Harsh",
+      "city": "Pune",
+      "developer": false
+    },
+    {
+      "age": 35,
+      "name": "Raj",
+      "city": "Pune",
+      "developer": true
+    },
+    {
+      "age": 22,
+      "name": "DoubleDigit",
+      "city": "Germany",
+      "developer": false
+    }
+  ]
+}
